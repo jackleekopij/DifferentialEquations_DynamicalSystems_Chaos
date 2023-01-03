@@ -5,3 +5,4 @@ Review of book:
 
 Weather prediction:
 https://medium.com/syncedreview/deepmind-googles-ml-based-graphcast-outperforms-the-world-s-best-medium-range-weather-9d114460aa0c
+GNN-based architectures are well-suited for learning the complex physical dynamics of fluids and other materials.
